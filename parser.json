@@ -1,8 +1,7 @@
 {
-  "location": null,
-  "semver": false,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-toml",
-  "lang": "toml",
-  "min_version": null,
-  "max_version": null
+  "semver": false,
+  "parser_version": "64b56832c2cffe41758f28e05c756a3a98d16f41",
+  "location": null,
+  "lang": "toml"
 }
